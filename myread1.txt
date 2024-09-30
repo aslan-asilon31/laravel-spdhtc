@@ -1,0 +1,1 @@
+Sistem pakar deteksi penyakit tanaman cabai menggunakan algoritma forward chaining dengan laravel 
